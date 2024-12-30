@@ -32,9 +32,9 @@ Check out the live version of my portfolio https://abdullah7417.github.io/My_Por
 
 Feel free to connect with me:
 
-- **Email:** [your-email@example.com](abdullahmohamedf330@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/abdullah-mohammed-fathy/)
-- **GitHub:** [github.com/your-profile](https://github.com/abdullah7417)
+- **Email:** [gmail](abdullahmohamedf330@gmail.com)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/abdullah-mohammed-fathy/)
+- **GitHub:** [github](https://github.com/abdullah7417)
 
 ---
 
