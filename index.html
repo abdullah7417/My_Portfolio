@@ -52,14 +52,20 @@
                     <div class="hidden lg:block">
                         <ul class="flex items-center">
 
+
+                            <li class="group pl-6">
+
+                                <span @click="triggerNavItem('#home')"
+                                    class="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">Home</span>
+
+
+                                <span class="block h-0.5 w-full bg-transparent group-hover:bg-yellow"></span>
+                            </li>
+
                             <li class="group pl-6">
 
                                 <span @click="triggerNavItem('#about')"
                                     class="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">About</span>
-
-
-
-
                                 <span class="block h-0.5 w-full bg-transparent group-hover:bg-yellow"></span>
                             </li>
 
@@ -138,6 +144,14 @@
 
                     <ul class="mt-8 flex flex-col">
 
+
+                        <li class="py-2">
+
+                            <span @click="triggerMobileNavItem('#home')"
+                                class="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">Home</span>
+
+                        </li>
+
                         <li class="py-2">
 
                             <span @click="triggerMobileNavItem('#about')"
@@ -199,7 +213,7 @@
             </div>
 
 
-            <div>
+            <div id="home">
                 <div class="relative bg-cover bg-center bg-no-repeat py-8"
                     style="background-image: url(../assets/img/bg-hero.jpg)">
                     <div
